@@ -1,0 +1,9 @@
+com/sn/metadataServer/model/User.class
+com/sn/metadataServer/payload/PostData.class
+com/sn/metadataServer/service/UserService.class
+com/sn/metadataServer/api/UserController.class
+com/sn/metadataServer/model/PostDetails.class
+com/sn/metadataServer/service/PostService.class
+com/sn/metadataServer/repositories/PostRepository.class
+com/sn/metadataServer/repositories/UserRepository.class
+com/sn/metadataServer/MetadataServer.class
